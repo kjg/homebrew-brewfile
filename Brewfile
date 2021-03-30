@@ -2,6 +2,7 @@ tap "homebrew/cask"
 cask_args appdir: '/Applications'
 
 brew "bash"
+brew "bash-completion@2"
 brew "git"
 brew "vcprompt"
 brew "mas"
