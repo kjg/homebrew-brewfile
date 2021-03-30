@@ -13,6 +13,7 @@ cask "1password"
 # Communication
 cask "zoom"
 cask "slack"
+cask "yakyak"
 
 # Dev
 cask "tableplus"
