@@ -25,4 +25,5 @@ cask "tableplus"
 cask "aerial"
 
 mas "Airmail", id: 918858936
+mas 'Deliveries', id: 290986013
 mas 'Xcode', id: 497799835
