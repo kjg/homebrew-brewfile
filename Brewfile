@@ -6,6 +6,7 @@ brew "bash-completion@2"
 brew "git"
 brew "vcprompt"
 brew "mas"
+brew "gh"
 
 # Passwords
 cask "dropbox"
